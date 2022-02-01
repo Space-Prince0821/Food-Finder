@@ -26,3 +26,5 @@ If this is your first launch, you'll need to scan a QR code. After that the app 
 This project uses JTest to run tests. After installation, test can be run with:
 
 **npm run test**
+
+## npm install
